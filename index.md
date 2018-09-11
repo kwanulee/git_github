@@ -100,9 +100,8 @@ div.polaroid {
 	- **File** > **Options..** 메뉴를 클릭
 	- **GitHub.com**의 **Sign in** 버튼 클릭 
 	- **Sign in** 화면에서 **GitHub**의 Username과 Password 입력후 **Sign in** 클릭 
-		<div class="polaroid">
-			<img src="figure/signin-github.PNG">
-		</div>
+	
+		
 2. 작업중인 지역 **git** 저장소를 원격 저장소(**GitHub**)에 올리기
 	- **GitHub Desktop** 화면 상단의 **Publish repository** 클릭 
 	- *Keep this code private* 체크박스 선택 해제 후, [**Publish repository**] 버튼 클릭
@@ -183,7 +182,7 @@ div.polaroid {
 		</div>
 		
 6. 웹브라우저를 통해 **GitHub**의 원격 저장소에 지역 **git** 저장소의 내용이 동기화 되어 있는 확인  
-7. 
+
 	<div class="polaroid">
 			<img src="figure/github-sync-result.png">
 		</div>
